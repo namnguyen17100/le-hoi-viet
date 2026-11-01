@@ -1,6 +1,0 @@
-{
-  "name": "Lễ Hội Việt - Nền Tảng Di Sản Lễ Hội & Lịch Âm Dương",
-  "description": "Nền tảng tra cứu và số hóa di sản lễ hội truyền thống theo âm lịch Việt Nam. Đề tài tốt nghiệp D01 - SV: Bùi Trung Nam (PH60600).",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
